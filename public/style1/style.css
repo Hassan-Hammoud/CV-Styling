@@ -4,11 +4,7 @@
     box-sizing: border-box;
   }
   
-  #wrapper {
-    /* width: 60%;
-    margin: 0 auto; */
-  } 
-  
+ 
   header {
     background-color: #999999;
     padding: 0 25%;
